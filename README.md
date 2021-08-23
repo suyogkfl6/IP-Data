@@ -20,6 +20,9 @@ apt update && apt upgrade -y
 apt install git -y
 ```
 ```
+gem install lolcat
+```
+```
 git clone https://github.com/suyogkfl6/IP-Data.git
 ```
 ```
